@@ -1,0 +1,15 @@
+class employee
+{
+	name [21]
+	id 
+	salary
+	
+	3 Seter
+	3 Geter
+	
+	4 constractors 
+	
+	Distractor ''object is distroied''
+}
+
+in main (define 4 object for every constarctor)
